@@ -27,12 +27,22 @@
   <LastModifiedUser>
     <Id>C28AAEA36260E145AB2EFF350DEADA1F</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
     <ManagerialLevel>0</ManagerialLevel>
   </LastModifiedUser>
-  <LockedByModule>None</LockedByModule>
+  <LockedBy>
+    <Id>BB2B23BAA43F034089B2228E5E15DEE5</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Administrator</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <ClassificationOnlineLearningEnabled>true</ClassificationOnlineLearningEnabled>
   <ClassificationMaxDocCount>500</ClassificationMaxDocCount>
   <ClassificationOnlineLearningFolderId>BBA55163BF664AC7A6D0B11601892675</ClassificationOnlineLearningFolderId>
