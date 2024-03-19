@@ -18,12 +18,22 @@
   <LastModifiedUser>
     <Id>5393D4B3A3D044F6AF8B91B771FAF2C5</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
     <ManagerialLevel>0</ManagerialLevel>
   </LastModifiedUser>
-  <LockedByModule>None</LockedByModule>
+  <LockedBy>
+    <Id>BB2B23BAA43F034089B2228E5E15DEE5</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Administrator</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <FieldGroups />
   <FieldValidators />
   <FolderValidatorCollection />
@@ -47,12 +57,22 @@
       <LastModifiedUser>
         <Id>5393D4B3A3D044F6AF8B91B771FAF2C5</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name />
         <ResourceType>Worker</ResourceType>
         <EmailAddress />
         <UserId />
         <ManagerialLevel>0</ManagerialLevel>
       </LastModifiedUser>
-      <LockedByModule>None</LockedByModule>
+      <LockedBy>
+        <Id>BB2B23BAA43F034089B2228E5E15DEE5</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Administrator</Name>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LockedBy>
+      <LockedByModule>TotalAgilityDesigner</LockedByModule>
       <FieldGroups />
       <FieldValidators />
       <FolderValidatorCollection />
